@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Migrate
+python-dotenv
+Werkzeug
+Pillow
+requests
+openai
+google-generativeai
+bcrypt
